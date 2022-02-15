@@ -26,3 +26,5 @@ morse_data = {
     'Y': '-.--',
     'Z': '--..',
     }
+
+input('enter text')
